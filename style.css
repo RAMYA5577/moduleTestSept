@@ -1,0 +1,188 @@
+
+.navDiv1{
+    display: flex;
+    justify-content: space-around;
+    margin-inline: 40px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.links{
+    list-style-type: none;
+    
+}
+.links li{
+    margin-inline: 25px;
+}
+.button{
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: white;
+    width: 100px;
+}
+.navDiv2{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    width: 100vw;
+   padding-top: 10px;
+   font-size: 20px;
+
+}
+/* .................................................................................................. */
+/* header block code */
+header{
+    padding: 90px;
+}
+.headerList{
+    /* list-style-type: none; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.l1{
+    list-style-image: url(./images/Group\ 907.png);
+}
+.l2{
+    list-style-image: url(./images/Group\ 48097592.png);
+}
+.l3{
+    list-style-image: url(./images/Group\ 903.png);
+}
+.l4{
+    list-style-image: url(./images/Group\ 48097591.png);
+}
+.d1{
+    background-color: #f6eded;
+    
+    margin: 10px;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    height: 50px;
+}
+.hBtn{
+background-color: rgb(110, 16, 199);
+color: white;
+width: 290px;
+height: 50px;
+border-radius: 10px;
+border: none;
+font-size: 20px;
+margin-left: 10px;
+margin-bottom: 20px
+
+}
+.hdiv2{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 350px;
+    height: 450px;
+    box-shadow: 5px 5px solid rgb(163, 118, 163,0.1);
+}
+.pre{
+    font-size: 11px;
+}
+
+/* ......................................................................................... */
+/* section1 code */
+section{
+    background-color: rgb(236,248,255,1);
+    height: 800px;
+    padding: 20px;
+}
+.Sdiv{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.Sdiv2{
+    display: flex;
+    justify-content: center;
+}
+.sCard{
+    margin: 30px;
+    border: 1px solidd black;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    width: 500px;
+    height: 600px;
+
+}.sbutton{
+    background-color: rgb(193, 237, 231);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    justify-content: center;
+}
+.tbl{
+    width: 400px;
+}
+.tt{
+    border-bottom: 1px solid black;
+}
+.ty{
+    padding: 20px;
+}
+.brochure{
+background-color: transparent;
+border: 2px solid green;
+border-radius: 10px;
+padding: 10px;
+width: 150px;
+color: green;
+}
+
+.learnMore{
+background-color: skyblue;
+color: white;
+border-radius: 10px;
+padding: 10px;
+width: 150px;
+border: none;
+}
+/* ............................................................................. */
+/* section2 */
+.s2Table td{
+padding: 30px;
+}
+.s2btn{
+    margin-left: 650px;
+    background-color: rgb(22, 158, 212);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+/* ................................................................................ */
+/* footer code */
+footer{
+    margin: 40px;
+}
+.fd2{
+    display: flex;
+}
+.fCard1{
+    width: 450px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    font-size: small;
+}
+.fCard2{
+    width: 450px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top:20px;
+    padding:10px;
+    font-size: small;
+    margin-bottom: 20px;
+}
